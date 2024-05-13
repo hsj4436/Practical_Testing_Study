@@ -2,9 +2,7 @@ package com.example.cafekiosk.spring.api.service.product;
 
 import static org.assertj.core.api.Assertions.assertThat;
 import static org.assertj.core.api.Assertions.tuple;
-import static org.junit.jupiter.api.Assertions.*;
 
-import com.example.cafekiosk.spring.api.controller.product.dto.request.ProductCreateRequest;
 import com.example.cafekiosk.spring.api.service.product.request.ProductCreateServiceRequest;
 import com.example.cafekiosk.spring.api.service.product.response.ProductResponse;
 import com.example.cafekiosk.spring.domain.product.Product;
